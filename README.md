@@ -1,6 +1,7 @@
 ### Pull-based CI/CD Architecture and Dataflow
 
-![Figure 2 - Option 2 Pull based Architecture with GitHub Actions for CI and Argo CD for CD](./media/72be57feef5bb9b47658cfc16f3d779f3.png)
+![Figure - Pull based Architecture with GitHub Actions for CI and Argo CD for CD]![image](https://github.com/Akshaykumar12/POC_GitOps_AKS_ArgoCD/assets/23234887/309646c6-37f5-43ad-a95b-fa9a65e87123)
+
 
 This scenario covers a pull-based DevOps pipeline for a web application with a front-end component. This pipeline uses GitHub Actions for build and push it uses Argo CD a GitOps operator pull/sync for deployment. The data flows through the scenario as follows:
 
