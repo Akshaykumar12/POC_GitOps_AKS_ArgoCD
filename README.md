@@ -1,3 +1,10 @@
+### Scenario:
+
+An enterprise financial organization has a plan to modernize their legacy applications silos and move them to the cloud native applications through 6R Strategy. They want to provision their Infrastructure using GitOps and Kubernetes. 
+
+They are interested in seeing how they can leverage Azure Kubernetes as a Kubernetes managed platform, Kubernetes CD pipeline, GitOps and Argo CD/Flux in their transformation.
+
+
 ### Pull-based CI/CD Architecture and Dataflow
 
 ![Figure - Pull based Architecture with GitHub Actions for CI and Argo CD for CD]![image](https://github.com/Akshaykumar12/POC_GitOps_AKS_ArgoCD/assets/23234887/309646c6-37f5-43ad-a95b-fa9a65e87123)
