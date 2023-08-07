@@ -1,6 +1,6 @@
-### Scenario:
+### Proof of Concept:
 
-An enterprise financial organization has a plan to modernize their legacy applications silos and move them to the cloud native applications through 6R Strategy. They want to provision their Infrastructure using GitOps and Kubernetes. 
+Plan to modernize legacy applications silos and move them to the cloud native applications through 6R Strategy. They want to provision their Infrastructure using GitOps and Kubernetes. 
 
 They are interested in seeing how they can leverage Azure Kubernetes as a Kubernetes managed platform, Kubernetes CD pipeline, GitOps and Argo CD/Flux in their transformation.
 
